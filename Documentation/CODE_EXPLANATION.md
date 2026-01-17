@@ -7,9 +7,9 @@ Let's break down every single line of code so you understand exactly what's happ
 ## 🧠 MainActivity.kt - The Brain
 
 ```kotlin
-package com.example.mealtracker
+package com.prajwalpai.mealtracker
 ```
-**What it means:** This file belongs to the `com.example.mealtracker` package (like a folder for organizing code).
+**What it means:** This file belongs to the `com.prajwalpai.mealtracker` package (like a folder for organizing code).
 
 ```kotlin
 import androidx.appcompat.app.AppCompatActivity

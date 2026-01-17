@@ -7,7 +7,7 @@
 ## ✅ Pre-Upload Preparation
 
 ### 1. Change Package Name (CRITICAL)
-- [ ] Change from `com.example.mealtracker` to `com.yourname.mealtracker`
+- [x] Change from `com.example.mealtracker` to `com.prajwalpai.mealtracker` ✅
 - [ ] Update in `build.gradle.kts` (namespace and applicationId)
 - [ ] Update package declaration in all `.kt` files
 - [ ] Clean and rebuild project

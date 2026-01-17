@@ -12,11 +12,11 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.example.mealtracker"
+    namespace = "com.prajwalpai.mealtracker"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.mealtracker"
+        applicationId = "com.prajwalpai.mealtracker"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

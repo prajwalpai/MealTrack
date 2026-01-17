@@ -7,7 +7,7 @@ Complete step-by-step guide to upload your MealTrack app to the Google Play Stor
 ## ⚠️ IMPORTANT PRE-UPLOAD CHECKLIST
 
 ### Before You Start:
-- [ ] **Change package name** (Currently: `com.example.mealtracker` → Should be: `com.yourname.mealtracker` or `com.yourdomain.mealtracker`)
+- [x] **Change package name** (Changed from: `com.example.mealtracker` → To: `com.prajwalpai.mealtracker`) ✅
 - [ ] **Test the release build** thoroughly on a real device
 - [ ] **Prepare app icons** (512x512 for Play Store)
 - [ ] **Take screenshots** (at least 2, up to 8)
@@ -22,7 +22,7 @@ Complete step-by-step guide to upload your MealTrack app to the Google Play Stor
 
 ### Option A: Android Studio (Recommended)
 
-1. **Right-click on `com.example.mealtracker`** in Project view
+1. **Right-click on `com.prajwalpai.mealtracker`** in Project view (if you need to rename it further)
 2. Select **Refactor → Rename Package**
 3. Enter new name: `com.yourname.mealtracker` (or your domain)
 4. Check **"Search in comments and strings"**

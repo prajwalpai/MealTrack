@@ -33,13 +33,13 @@
 -keepattributes *Annotation*
 -dontwarn sun.misc.**
 -keep class com.google.gson.** { *; }
--keep class com.example.mealtracker.** { *; }
--keep class com.example.mealtracker.backup.** { *; }
+-keep class com.prajwalpai.mealtracker.** { *; }
+-keep class com.prajwalpai.mealtracker.backup.** { *; }
 
 # Keep data classes for serialization
--keep class com.example.mealtracker.Meal { *; }
--keep class com.example.mealtracker.backup.BackupData { *; }
--keep class com.example.mealtracker.goals.** { *; }
+-keep class com.prajwalpai.mealtracker.Meal { *; }
+-keep class com.prajwalpai.mealtracker.backup.BackupData { *; }
+-keep class com.prajwalpai.mealtracker.goals.** { *; }
 
 # ===== Glance Widget =====
 -keep class androidx.glance.** { *; }
@@ -50,25 +50,25 @@
 -keep class androidx.work.impl.** { *; }
 
 # ===== Keep ViewModels =====
--keep class com.example.mealtracker.MealViewModel { *; }
+-keep class com.prajwalpai.mealtracker.MealViewModel { *; }
 
 # ===== Keep Activities =====
--keep class com.example.mealtracker.*Activity { *; }
+-keep class com.prajwalpai.mealtracker.*Activity { *; }
 
 # ===== Keep Custom Views =====
--keep class com.example.mealtracker.MealSlotView { *; }
+-keep class com.prajwalpai.mealtracker.MealSlotView { *; }
 
 # ===== Keep Adapters =====
--keep class com.example.mealtracker.*Adapter { *; }
+-keep class com.prajwalpai.mealtracker.*Adapter { *; }
 
 # ===== Keep Repositories =====
--keep class com.example.mealtracker.MealRepository { *; }
+-keep class com.prajwalpai.mealtracker.MealRepository { *; }
 
 # ===== Keep Notification and Widget classes =====
--keep class com.example.mealtracker.notifications.** { *; }
--keep class com.example.mealtracker.widget.** { *; }
--keep class com.example.mealtracker.goals.** { *; }
--keep class com.example.mealtracker.backup.** { *; }
+-keep class com.prajwalpai.mealtracker.notifications.** { *; }
+-keep class com.prajwalpai.mealtracker.widget.** { *; }
+-keep class com.prajwalpai.mealtracker.goals.** { *; }
+-keep class com.prajwalpai.mealtracker.backup.** { *; }
 
 # Remove logging in release
 -assumenosideeffects class android.util.Log {

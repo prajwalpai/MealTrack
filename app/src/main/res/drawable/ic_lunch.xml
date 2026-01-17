@@ -1,0 +1,52 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Sun/Noon icon - Sun circle -->
+    <path
+        android:fillColor="@color/secondary"
+        android:pathData="M12,7C9.24,7 7,9.24 7,12C7,14.76 9.24,17 12,17C14.76,17 17,14.76 17,12C17,9.24 14.76,7 12,7Z"/>
+    <!-- Sun rays -->
+    <path
+        android:strokeColor="@color/secondary"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M12,2L12,4"/>
+    <path
+        android:strokeColor="@color/secondary"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M12,20L12,22"/>
+    <path
+        android:strokeColor="@color/secondary"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M4,12L2,12"/>
+    <path
+        android:strokeColor="@color/secondary"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M22,12L20,12"/>
+    <path
+        android:strokeColor="@color/secondary"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M5.64,5.64L4.22,4.22"/>
+    <path
+        android:strokeColor="@color/secondary"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M19.78,19.78L18.36,18.36"/>
+    <path
+        android:strokeColor="@color/secondary"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M19.78,4.22L18.36,5.64"/>
+    <path
+        android:strokeColor="@color/secondary"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M5.64,18.36L4.22,19.78"/>
+</vector>
+

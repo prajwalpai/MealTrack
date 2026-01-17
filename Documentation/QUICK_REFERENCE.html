@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick Reference - Meal Tracker</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #667eea;
+            text-align: center;
+        }
+        h2 {
+            color: #764ba2;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+        h3 {
+            color: #555;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            color: #e83e8c;
+        }
+        .command {
+            background: #2d2d2d;
+            color: #f8f8f2;
+            padding: 10px;
+            border-radius: 5px;
+            font-family: monospace;
+            margin: 10px 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 10px 0;
+        }
+        th {
+            background: #667eea;
+            color: white;
+            padding: 10px;
+            text-align: left;
+        }
+        td {
+            padding: 8px;
+            border-bottom: 1px solid #ddd;
+        }
+        .shortcut {
+            background: #e3f2fd;
+            padding: 15px;
+            border-left: 4px solid #2196F3;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>⚡ Quick Reference Card</h1>
+    
+    <div class="card">
+        <h2>🚀 Essential Commands</h2>
+        
+        <h3>Open Documentation</h3>
+        <div class="command">open Documentation/index.html</div>
+        
+        <h3>Run the App</h3>
+        <p>Click the green ▶️ button in Android Studio toolbar</p>
+        
+        <h3>Clean & Rebuild</h3>
+        <p>Build → Clean Project → Build → Rebuild Project</p>
+    </div>
+    
+    <div class="card">
+        <h2>⌨️ Android Studio Shortcuts</h2>
+        
+        <table>
+            <tr>
+                <th>Action</th>
+                <th>Windows/Linux</th>
+                <th>macOS</th>
+            </tr>
+            <tr>
+                <td>Run App</td>
+                <td>Shift + F10</td>
+                <td>Ctrl + R</td>
+            </tr>
+            <tr>
+                <td>Build Project</td>
+                <td>Ctrl + F9</td>
+                <td>Cmd + F9</td>
+            </tr>
+            <tr>
+                <td>Find File</td>
+                <td>Ctrl + Shift + N</td>
+                <td>Cmd + Shift + O</td>
+            </tr>
+            <tr>
+                <td>Auto-complete</td>
+                <td>Ctrl + Space</td>
+                <td>Ctrl + Space</td>
+            </tr>
+            <tr>
+                <td>Format Code</td>
+                <td>Ctrl + Alt + L</td>
+                <td>Cmd + Option + L</td>
+            </tr>
+            <tr>
+                <td>Search Everywhere</td>
+                <td>Double Shift</td>
+                <td>Double Shift</td>
+            </tr>
+        </table>
+    </div>
+    
+    <div class="card">
+        <h2>📁 Important Files</h2>
+        
+        <table>
+            <tr>
+                <th>File</th>
+                <th>Purpose</th>
+            </tr>
+            <tr>
+                <td><code>MainActivity.kt</code></td>
+                <td>Main app logic (the brain)</td>
+            </tr>
+            <tr>
+                <td><code>activity_main.xml</code></td>
+                <td>UI layout (the face)</td>
+            </tr>
+            <tr>
+                <td><code>AndroidManifest.xml</code></td>
+                <td>App configuration</td>
+            </tr>
+            <tr>
+                <td><code>build.gradle.kts</code></td>
+                <td>Dependencies & settings</td>
+            </tr>
+            <tr>
+                <td><code>strings.xml</code></td>
+                <td>Text resources</td>
+            </tr>
+            <tr>
+                <td><code>colors.xml</code></td>
+                <td>Color definitions</td>
+            </tr>
+        </table>
+    </div>
+    
+    <div class="card">
+        <h2>🔧 Common Fixes</h2>
+        
+        <div class="shortcut">
+            <strong>Gradle sync failed:</strong><br>
+            File → Invalidate Caches → Invalidate and Restart
+        </div>
+        
+        <div class="shortcut">
+            <strong>Cannot resolve symbol R:</strong><br>
+            Build → Clean Project → Build → Rebuild Project
+        </div>
+        
+        <div class="shortcut">
+            <strong>Emulator won't start:</strong><br>
+            Enable virtualization in BIOS (Windows) or try different device
+        </div>
+    </div>
+    
+    <div class="card">
+        <h2>📚 Documentation Quick Links</h2>
+        <ul>
+            <li><strong>index.html</strong> - Complete guide with flowcharts</li>
+            <li><strong>QUICK_START.md</strong> - 15-minute setup</li>
+            <li><strong>BEGINNER_GUIDE.md</strong> - Android fundamentals</li>
+            <li><strong>CODE_EXPLANATION.md</strong> - Line-by-line breakdown</li>
+        </ul>
+    </div>
+    
+    <div class="card">
+        <h2>🎯 Current Stage: Hello World</h2>
+        <h3>Your Mission:</h3>
+        <ol>
+            <li>Install Android Studio</li>
+            <li>Open this project</li>
+            <li>Create virtual device</li>
+            <li>Run the app</li>
+            <li>Click button 10 times</li>
+        </ol>
+    </div>
+    
+    <div class="card" style="background: #d4edda; border-left: 5px solid #28a745;">
+        <h2>💡 Pro Tips</h2>
+        <ul>
+            <li>Use Ctrl+Space for autocomplete</li>
+            <li>Read error messages carefully</li>
+            <li>Google is your friend</li>
+            <li>Experiment and break things!</li>
+            <li>Take breaks when stuck</li>
+        </ul>
+    </div>
+</body>
+</html>
+

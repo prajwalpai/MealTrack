@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Theme Colors - Fresh Green -->
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#388E3C</color>
+    <color name="primary_light">#81C784</color>
+
+    <!-- Secondary Theme Colors - Warm Orange -->
+    <color name="secondary">#FF9800</color>
+    <color name="secondary_dark">#F57C00</color>
+    <color name="secondary_light">#FFB74D</color>
+
+    <!-- Background Colors -->
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <!-- Category Colors -->
+    <color name="healthy">#4CAF50</color>
+    <color name="healthy_light">#E8F5E9</color>
+    <color name="neutral">#FFC107</color>
+    <color name="neutral_light">#FFF9C4</color>
+    <color name="junk">#F44336</color>
+    <color name="junk_light">#FFEBEE</color>
+
+    <!-- Accent Colors -->
+    <color name="accent">#FF5722</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Weekly Summary - Pastel Blue Theme -->
+    <color name="weekly_primary">#64B5F6</color>
+    <color name="weekly_primary_dark">#42A5F5</color>
+    <color name="weekly_primary_light">#90CAF9</color>
+    <color name="weekly_accent">#E3F2FD</color>
+
+    <!-- Monthly Summary - Pastel Coral/Pink Theme -->
+    <color name="monthly_primary">#FF8A80</color>
+    <color name="monthly_primary_dark">#FF5252</color>
+    <color name="monthly_primary_light">#FFAB91</color>
+    <color name="monthly_accent">#FFE0E0</color>
+
+    <!-- Legacy colors for compatibility -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>
+

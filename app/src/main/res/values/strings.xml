@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MealTrack</string>
+
+    <!-- Meal Logger Strings -->
+    <string name="meal_name_hint">Enter meal name</string>
+    <string name="select_meal_type">Select Meal Type</string>
+    <string name="healthy">Healthy</string>
+    <string name="neutral">Neutral</string>
+    <string name="junk">Junk</string>
+    <string name="save_meal">Save Meal</string>
+    <string name="my_meals">My Meals</string>
+    <string name="no_meals">No meals logged yet. Add your first meal!</string>
+
+    <!-- Meal Types Array -->
+    <string-array name="meal_types">
+        <item>Select Meal Type</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Evening Snacks</item>
+        <item>Dinner</item>
+    </string-array>
+
+    <!-- Widget Strings -->
+    <string name="widget_description">Quick access to your meal tracking</string>
+</resources>
+

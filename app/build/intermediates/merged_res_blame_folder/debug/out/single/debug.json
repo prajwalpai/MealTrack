@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/layout_activity_settings.xml.flat",
+        "source": "com.example.mealtracker.app-main-53:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_ic_junk.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/ic_junk.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_ic_settings.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_widget_background.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/widget_background.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_item_streak_card.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/item_streak_card.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_nav_button_background.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/nav_button_background.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/anim_slide_out_left.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/anim_slide_in_right.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/anim_button_scale_down.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/anim/button_scale_down.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_ic_chevron_right.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_item_achievement.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/item_achievement.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_ic_breakfast.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/ic_breakfast.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_ic_lunch.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/ic_lunch.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_rounded_input_background.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/rounded_input_background.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_activity_monthly_summary.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/activity_monthly_summary.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/anim_slide_out_right.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_progress_bar_neutral.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/progress_bar_neutral.xml"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_ic_neutral.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/ic_neutral.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_activity_daily_dashboard.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/activity_daily_dashboard.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_progress_bar_junk.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/progress_bar_junk.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_ic_dinner.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/ic_dinner.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_activity_settings.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/anim_rotate_loading.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/anim/rotate_loading.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/xml_meal_widget_info.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/xml/meal_widget_info.xml"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_widget_meal_large.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/widget_meal_large.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable-night_rounded_input_background.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable-night/rounded_input_background.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_weekly_nav_button_background.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/weekly_nav_button_background.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_monthly_nav_button_background.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/monthly_nav_button_background.xml"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/layout_activity_backup_restore.xml.flat",
+        "source": "com.example.mealtracker.app-main-53:/layout/activity_backup_restore.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/anim_button_scale_up.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/anim/button_scale_up.xml"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_meal_item.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/meal_item.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_ic_launcher_foreground.png.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/anim_slide_in_left.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/anim_slide_up.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_activity_goals.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/activity_goals.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_progress_bar_healthy.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/progress_bar_healthy.xml"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/anim_fade_out.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_widget_meal_small.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/widget_meal_small.xml"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_widget_meal_medium.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/widget_meal_medium.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_meal_slot.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/meal_slot.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_activity_weekly_summary.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/activity_weekly_summary.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_ic_chevron_left.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/ic_chevron_left.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_ic_healthy.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/ic_healthy.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/drawable_ic_snacks.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/drawable/ic_snacks.xml"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mealtracker.app-merged_res-51:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mealtracker.app-main-53:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/anim_fade_in.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-merged_res-51:/layout_activity_main.xml.flat",
+        "source": "/Users/prajpai/.gradle/daemon/8.2/com.example.mealtracker.app-main-53:/layout/activity_main.xml"
+    }
+]

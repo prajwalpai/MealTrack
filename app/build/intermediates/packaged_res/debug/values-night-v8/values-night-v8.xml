@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF6E40</color>
+    <color name="background">#121212</color>
+    <color name="black">#FF000000</color>
+    <color name="card_background">#2C2C2C</color>
+    <color name="divider">#3A3A3A</color>
+    <color name="healthy">#66BB6A</color>
+    <color name="healthy_light">#1B5E20</color>
+    <color name="junk">#EF5350</color>
+    <color name="junk_light">#B71C1C</color>
+    <color name="monthly_accent">#B71C1C</color>
+    <color name="monthly_primary">#FF6E6E</color>
+    <color name="monthly_primary_dark">#D32F2F</color>
+    <color name="monthly_primary_light">#FF8A80</color>
+    <color name="neutral">#FFD54F</color>
+    <color name="neutral_light">#F57F17</color>
+    <color name="primary">#66BB6A</color>
+    <color name="primary_dark">#2E7D32</color>
+    <color name="primary_light">#81C784</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="secondary">#FFA726</color>
+    <color name="secondary_dark">#EF6C00</color>
+    <color name="secondary_light">#FFB74D</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_hint">#757575</color>
+    <color name="text_primary">#E0E0E0</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="weekly_accent">#0D47A1</color>
+    <color name="weekly_primary">#42A5F5</color>
+    <color name="weekly_primary_dark">#1976D2</color>
+    <color name="weekly_primary_light">#64B5F6</color>
+    <color name="white">#FFFFFFFF</color>
+    <style name="Base.Theme.MealTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+
+        
+        <item name="colorAccent">@color/accent</item>
+
+        
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        
+        <item name="android:navigationBarColor">@color/background</item>
+    </style>
+    <style name="PrimaryButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+    </style>
+    <style name="SecondaryButton" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="strokeColor">@color/primary</item>
+        <item name="android:textColor">@color/primary</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+    </style>
+    <style name="Theme.MealTracker" parent="Base.Theme.MealTracker"/>
+</resources>

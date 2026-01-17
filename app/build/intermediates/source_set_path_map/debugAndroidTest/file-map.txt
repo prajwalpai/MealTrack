@@ -1,0 +1,6 @@
+com.example.mealtracker.test.app-core-1.5.0-0 /Users/prajpai/.gradle/caches/transforms-3/76dcffa539b47774d3279e9a95bcd796/transformed/core-1.5.0/res
+com.example.mealtracker.test.app-annotation-experimental-1.3.0-1 /Users/prajpai/.gradle/caches/transforms-3/e57e1e409ba943ea193717c101ffba10/transformed/annotation-experimental-1.3.0/res
+com.example.mealtracker.test.app-androidTest-2 /Users/prajpai/Documents/Github-Personal/Android-App/app/build/generated/res/resValues/androidTest/debug
+com.example.mealtracker.test.app-mergeDebugAndroidTestResources-3 /Users/prajpai/Documents/Github-Personal/Android-App/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.mealtracker.test.app-mergeDebugAndroidTestResources-4 /Users/prajpai/Documents/Github-Personal/Android-App/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.mealtracker.test.app-merged_res-5 /Users/prajpai/Documents/Github-Personal/Android-App/app/build/intermediates/merged_res/debugAndroidTest

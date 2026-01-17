@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widgetContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/widget_background">
+
+    <!-- Header -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🍽️ Meal Tracker"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/primary"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Today Section -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Today"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_secondary"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:id="@+id/todayMealCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0 meals today"
+        android:textSize="16sp"
+        android:textColor="@color/text_primary"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:id="@+id/categoryBreakdown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🟢 0  ⚪ 0  🔴 0"
+        android:textSize="14sp"
+        android:textColor="@color/text_secondary"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Divider -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/divider"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Weekly Stats -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This Week"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_secondary"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:id="@+id/weeklyStats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0 meals this week"
+        android:textSize="14sp"
+        android:textColor="@color/text_primary"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Quick Add Button -->
+    <Button
+        android:id="@+id/quickAddButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="➕ Add Meal"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:backgroundTint="@color/primary"
+        android:textColor="@color/white"
+        android:padding="12dp" />
+
+</LinearLayout>
+

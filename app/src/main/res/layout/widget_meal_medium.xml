@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widgetContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="@drawable/widget_background">
+
+    <!-- Header -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🍽️ Meal Tracker"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@color/primary"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Today's Meal Count -->
+    <TextView
+        android:id="@+id/todayMealCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0 meals today"
+        android:textSize="14sp"
+        android:textColor="@color/text_primary"
+        android:layout_marginBottom="4dp" />
+
+    <!-- Category Breakdown -->
+    <TextView
+        android:id="@+id/categoryBreakdown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🟢 0  ⚪ 0  🔴 0"
+        android:textSize="12sp"
+        android:textColor="@color/text_secondary"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Quick Add Button -->
+    <Button
+        android:id="@+id/quickAddButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="➕ Add Meal"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:backgroundTint="@color/primary"
+        android:textColor="@color/white"
+        android:padding="10dp" />
+
+</LinearLayout>
+

@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Coffee/Tea cup icon -->
+    <path
+        android:fillColor="@color/secondary"
+        android:pathData="M20,3H4V13C4,14.66 5.34,16 7,16H17C18.66,16 20,14.66 20,13V3Z"/>
+    <path
+        android:fillColor="@color/secondary"
+        android:pathData="M2,19H22V21H2V19Z"/>
+    <path
+        android:fillColor="@color/secondary"
+        android:pathData="M20,8H22C22,9.66 20.66,11 19,11H20V8Z"/>
+</vector>
+

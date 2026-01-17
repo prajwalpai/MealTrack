@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Header -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/weekly_primary"
+            android:padding="20dp"
+            android:elevation="4dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="📊 Weekly Insights"
+                android:textSize="28sp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/weekRangeText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jan 5 - Jan 11, 2026"
+                android:textSize="16sp"
+                android:textColor="@color/white"
+                android:alpha="0.9" />
+
+        </LinearLayout>
+
+        <!-- Stats Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="20dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="This Week's Stats"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#333333"
+                    android:layout_marginBottom="16dp" />
+
+                <!-- Total Meals -->
+                <TextView
+                    android:id="@+id/totalMealsText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Total Meals: 0"
+                    android:textSize="18sp"
+                    android:textColor="#666666"
+                    android:layout_marginBottom="24dp" />
+
+                <!-- Healthy Stats -->
+                <TextView
+                    android:id="@+id/healthyStatsText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🟢 Healthy: 0 (0%)"
+                    android:textSize="16sp"
+                    android:textColor="#333333"
+                    android:layout_marginBottom="8dp" />
+
+                <ProgressBar
+                    android:id="@+id/healthyProgressBar"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="28dp"
+                    android:progress="0"
+                    android:max="100"
+                    android:progressDrawable="@drawable/progress_bar_healthy"
+                    android:layout_marginBottom="20dp" />
+
+                <!-- Neutral Stats -->
+                <TextView
+                    android:id="@+id/neutralStatsText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🟡 Neutral: 0 (0%)"
+                    android:textSize="16sp"
+                    android:textColor="#333333"
+                    android:layout_marginBottom="8dp" />
+
+                <ProgressBar
+                    android:id="@+id/neutralProgressBar"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="28dp"
+                    android:progress="0"
+                    android:max="100"
+                    android:progressDrawable="@drawable/progress_bar_neutral"
+                    android:layout_marginBottom="20dp" />
+
+                <!-- Junk Stats -->
+                <TextView
+                    android:id="@+id/junkStatsText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🔴 Junk: 0 (0%)"
+                    android:textSize="16sp"
+                    android:textColor="#333333"
+                    android:layout_marginBottom="8dp" />
+
+                <ProgressBar
+                    android:id="@+id/junkProgressBar"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="28dp"
+                    android:progress="0"
+                    android:max="100"
+                    android:progressDrawable="@drawable/progress_bar_junk"
+                    android:layout_marginBottom="16dp" />
+
+                <!-- Motivational Message -->
+                <TextView
+                    android:id="@+id/motivationalMessage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Keep tracking your meals!"
+                    android:textSize="14sp"
+                    android:textColor="@color/weekly_primary_dark"
+                    android:textStyle="italic"
+                    android:textAlignment="center"
+                    android:padding="12dp"
+                    android:background="@color/weekly_accent" />
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <!-- Daily Breakdown Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:layout_marginTop="0dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="20dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="📅 Daily Breakdown"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#333333"
+                    android:layout_marginBottom="16dp" />
+
+                <!-- Daily breakdown will be added programmatically -->
+                <LinearLayout
+                    android:id="@+id/dailyBreakdownContainer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="● = Meal logged    ○ = Not logged"
+                    android:textSize="12sp"
+                    android:textColor="#999999"
+                    android:layout_marginTop="12dp"
+                    android:gravity="center" />
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <!-- View Monthly Insights Button -->
+        <Button
+            android:id="@+id/viewMonthlyButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:layout_marginTop="0dp"
+            android:text="📅 View Monthly Insights"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:backgroundTint="@color/weekly_primary_dark"
+            android:textColor="@color/white"
+            android:padding="16dp" />
+
+    </LinearLayout>
+
+</ScrollView>
+

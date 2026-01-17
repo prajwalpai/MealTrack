@@ -4,7 +4,7 @@
             "outputFile": "com.example.mealtracker.app-mergeDebugResources-49:/values-v29/values-v29.xml",
             "map": [
                 {
-                    "source": "/Users/prajpai/.gradle/caches/transforms-3/4ec0eb38349f4ec19323d0dbeb36c0b0/transformed/glance-appwidget-1.0.0/res/values-v29/values-v29.xml",
+                    "source": "/Users/prajwalpai/.gradle/caches/transforms-3/4ec0eb38349f4ec19323d0dbeb36c0b0/transformed/glance-appwidget-1.0.0/res/values-v29/values-v29.xml",
                     "from": {
                         "startLines": "2,6,10,14,15,16",
                         "startColumns": "4,4,4,4,4,4",

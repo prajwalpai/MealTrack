@@ -4,26 +4,7 @@
             "outputFile": "com.example.mealtracker.app-mergeDebugResources-49:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/prajpai/.gradle/caches/transforms-3/7505e193dbaa99af17c9c1458796fc52/transformed/material-1.11.0/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2,5,9,13,16,19,22,25,28,32",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,271,413,574,784,991,1198,1401,1603,1868",
-                        "endLines": "4,8,12,15,18,21,24,27,31,35",
-                        "endColumns": "10,10,10,10,10,10,10,10,10,10",
-                        "endOffsets": "266,408,569,779,986,1193,1396,1598,1863,2136"
-                    },
-                    "to": {
-                        "startLines": "56,59,63,67,70,73,76,79,82,86",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3567,3783,3925,4086,4296,4503,4710,4913,5115,5380",
-                        "endLines": "58,62,66,69,72,75,78,81,85,89",
-                        "endColumns": "10,10,10,10,10,10,10,10,10,10",
-                        "endOffsets": "3778,3920,4081,4291,4498,4705,4908,5110,5375,5648"
-                    }
-                },
-                {
-                    "source": "/Users/prajpai/.gradle/caches/transforms-3/667a33f136ff430b2cb1ddd55832a549/transformed/appcompat-1.6.1/res/values-v23/values-v23.xml",
+                    "source": "/Users/prajwalpai/.gradle/caches/transforms-3/667a33f136ff430b2cb1ddd55832a549/transformed/appcompat-1.6.1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/prajpai/.gradle/caches/transforms-3/2dc86c5e8d37e434d501669ed3235dea/transformed/work-runtime-2.9.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/prajwalpai/.gradle/caches/transforms-3/2dc86c5e8d37e434d501669ed3235dea/transformed/work-runtime-2.9.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -52,7 +33,43 @@
                     }
                 },
                 {
-                    "source": "/Users/prajpai/.gradle/caches/transforms-3/4d2cfb53ee005646e2705b2cb1d925b7/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/prajwalpai/.gradle/caches/transforms-3/7505e193dbaa99af17c9c1458796fc52/transformed/material-1.11.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,5,9,13,16,19,22,25,28,32",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,271,413,574,784,991,1198,1401,1603,1868",
+                        "endLines": "4,8,12,15,18,21,24,27,31,35",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "266,408,569,779,986,1193,1396,1598,1863,2136"
+                    },
+                    "to": {
+                        "startLines": "56,59,63,67,70,73,76,79,82,86",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3567,3783,3925,4086,4296,4503,4710,4913,5115,5380",
+                        "endLines": "58,62,66,69,72,75,78,81,85,89",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "3778,3920,4081,4291,4498,4705,4908,5110,5375,5648"
+                    }
+                },
+                {
+                    "source": "/Users/prajwalpai/.gradle/caches/transforms-3/4ec0eb38349f4ec19323d0dbeb36c0b0/transformed/glance-appwidget-1.0.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "184",
+                        "endColumns": "55",
+                        "endOffsets": "235"
+                    }
+                },
+                {
+                    "source": "/Users/prajwalpai/.gradle/caches/transforms-3/4d2cfb53ee005646e2705b2cb1d925b7/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -68,23 +85,6 @@
                         "endLines": "55",
                         "endColumns": "12",
                         "endOffsets": "3562"
-                    }
-                },
-                {
-                    "source": "/Users/prajpai/.gradle/caches/transforms-3/4ec0eb38349f4ec19323d0dbeb36c0b0/transformed/glance-appwidget-1.0.0/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "55",
-                        "endOffsets": "106"
-                    },
-                    "to": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "184",
-                        "endColumns": "55",
-                        "endOffsets": "235"
                     }
                 }
             ]

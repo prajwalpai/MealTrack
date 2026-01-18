@@ -67,23 +67,23 @@ Welcome to your Android development journey! This project will take you from Hel
 <div align="center">
 
 #### Main Dashboard
-![Main Screen](../screenshots/Main-Screen.png)
+<img src="screenshots/Main-Screen.png" width="50%" alt="Main Screen">
 *The daily dashboard showing meal slots for Breakfast, Lunch, Evening Snacks, and Dinner*
 
 #### Meal Logger
-![Meal Logger](../screenshots/Meal-Logger.png)
+<img src="screenshots/Meal-Logger.png" width="50%" alt="Meal Logger">
 *Add or edit meals with health categorization*
 
 #### Weekly Insights
-![Weekly Insights](../screenshots/Weekly-Insights.png)
+<img src="screenshots/Weekly-Insights.png" width="50%" alt="Weekly Insights">
 *Weekly statistics and trends visualization*
 
 #### Monthly Insights
-![Monthly Insights](../screenshots/Monthly-Insights.png)
+<img src="screenshots/Monthly-Insights.png" width="50%" alt="Monthly Insights">
 *Monthly eating patterns and analysis*
 
 #### Goals and Achievements
-![Goals and Achievements](../screenshots/Goals%20and%20Achievements.png)
+<img src="screenshots/Goals%20and%20Achievements.png" width="50%" alt="Goals and Achievements">
 *Track goals, streaks, and achievements*
 
 </div>

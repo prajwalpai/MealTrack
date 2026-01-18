@@ -70,19 +70,19 @@ Build → Generate Signed Bundle / APK → APK → Next → Fill details → Fin
 <div align="center">
 
 ### Main Dashboard
-![Main Screen](Documentation/screenshots/Main-Screen.png)
+<img src="Documentation/screenshots/Main-Screen.png" width="50%" alt="Main Screen">
 
 ### Meal Logger
-![Meal Logger](Documentation/screenshots/Meal-Logger.png)
+<img src="Documentation/screenshots/Meal-Logger.png" width="50%" alt="Meal Logger">
 
 ### Weekly Insights
-![Weekly Insights](Documentation/screenshots/Weekly-Insights.png)
+<img src="Documentation/screenshots/Weekly-Insights.png" width="50%" alt="Weekly Insights">
 
 ### Monthly Insights
-![Monthly Insights](Documentation/screenshots/Monthly-Insights.png)
+<img src="Documentation/screenshots/Monthly-Insights.png" width="50%" alt="Monthly Insights">
 
 ### Goals and Achievements
-![Goals and Achievements](Documentation/screenshots/Goals%20and%20Achievements.png)
+<img src="Documentation/screenshots/Goals%20and%20Achievements.png" width="50%" alt="Goals and Achievements">
 
 </div>
 

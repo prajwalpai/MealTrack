@@ -6,7 +6,7 @@ Visual guide showing the actual app screens!
 
 ## 🏠 Main Dashboard
 
-![Main Screen](screenshots/Main-Screen.png)
+<img src="screenshots/Main-Screen.png" width="50%" alt="Main Screen">
 
 **The Daily Dashboard** - Your central hub for tracking meals
 - View today's meals at a glance
@@ -26,7 +26,7 @@ Visual guide showing the actual app screens!
 
 ## 📝 Meal Logger
 
-![Meal Logger](screenshots/Meal-Logger.png)
+<img src="screenshots/Meal-Logger.png" width="50%" alt="Meal Logger">
 
 **Add or Edit Meals** - Simple and intuitive meal entry
 - Enter meal name
@@ -46,7 +46,7 @@ Visual guide showing the actual app screens!
 
 ## 📊 Weekly Insights
 
-![Weekly Insights](screenshots/Weekly-Insights.png)
+<img src="screenshots/Weekly-Insights.png" width="50%" alt="Weekly Insights">
 
 **Weekly Summary** - Track your weekly eating patterns
 - View meal statistics for the current week
@@ -66,7 +66,7 @@ Visual guide showing the actual app screens!
 
 ## 📈 Monthly Insights
 
-![Monthly Insights](screenshots/Monthly-Insights.png)
+<img src="screenshots/Monthly-Insights.png" width="50%" alt="Monthly Insights">
 
 **Monthly Summary** - Long-term eating habit analysis
 - Monthly meal statistics
@@ -86,7 +86,7 @@ Visual guide showing the actual app screens!
 
 ## 🎯 Goals and Achievements
 
-![Goals and Achievements](screenshots/Goals%20and%20Achievements.png)
+<img src="screenshots/Goals%20and%20Achievements.png" width="50%" alt="Goals and Achievements">
 
 **Goals & Streaks** - Stay motivated with goals and achievements
 - Set custom goals (daily, weekly, monthly)

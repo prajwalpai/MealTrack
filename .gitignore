@@ -134,3 +134,9 @@ Desktop.ini
 # Uncomment if you don't want to share Play Store guides:
 # PLAY_STORE_UPLOAD_GUIDE.md
 # PLAY_STORE_CHECKLIST.md
+
+# Screenshots folder (local screenshots, not committed)
+Screenshots/
+
+# But allow screenshots in Documentation (for GitHub README)
+!Documentation/screenshots/

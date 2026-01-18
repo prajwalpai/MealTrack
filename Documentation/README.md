@@ -62,10 +62,31 @@ Welcome to your Android development journey! This project will take you from Hel
 
 ## 📱 What You'll See
 
-The Hello World app displays:
-- A text saying "Hello World!"
-- A button labeled "Click Me!"
-- Each click updates the text with a counter
+### App Screenshots
+
+<div align="center">
+
+#### Main Dashboard
+![Main Screen](../screenshots/Main-Screen.png)
+*The daily dashboard showing meal slots for Breakfast, Lunch, Evening Snacks, and Dinner*
+
+#### Meal Logger
+![Meal Logger](../screenshots/Meal-Logger.png)
+*Add or edit meals with health categorization*
+
+#### Weekly Insights
+![Weekly Insights](../screenshots/Weekly-Insights.png)
+*Weekly statistics and trends visualization*
+
+#### Monthly Insights
+![Monthly Insights](../screenshots/Monthly-Insights.png)
+*Monthly eating patterns and analysis*
+
+#### Goals and Achievements
+![Goals and Achievements](../screenshots/Goals%20and%20Achievements.png)
+*Track goals, streaks, and achievements*
+
+</div>
 
 ## 📚 Project Structure Explained
 
@@ -74,7 +95,7 @@ Android-App/
 ├── app/
 │   ├── src/
 │   │   └── main/
-│   │       ├── java/com/example/mealtracker/
+│   │       ├── java/com/prajwalpai/mealtracker/
 │   │       │   └── MainActivity.kt          # Your main code
 │   │       ├── res/
 │   │       │   ├── layout/

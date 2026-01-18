@@ -1,245 +1,157 @@
-# 📱 App Mockups - What We're Building
+# 📱 App Screenshots - MealTrack
 
-Visual guide showing what each stage will look like!
-
----
-
-## 🟢 Stage 1: Hello World (CURRENT)
-
-```
-┌─────────────────────────┐
-│   Meal Tracker          │
-├─────────────────────────┤
-│                         │
-│                         │
-│    Hello World!         │
-│  Button clicked 5 times │
-│                         │
-│                         │
-│     ┌─────────────┐     │
-│     │  Click Me!  │     │
-│     └─────────────┘     │
-│                         │
-│                         │
-│                         │
-└─────────────────────────┘
-```
-
-**What you learn:**
-- ✅ Basic UI elements (TextView, Button)
-- ✅ Event handling (button clicks)
-- ✅ Updating UI from code
-- ✅ Variables and state
+Visual guide showing the actual app screens!
 
 ---
 
-## 🔵 Stage 2: Simple Meal Logger
+## 🏠 Main Dashboard
 
-```
-┌─────────────────────────┐
-│   Meal Logger           │
-├─────────────────────────┤
-│                         │
-│  Meal Name:             │
-│  ┌───────────────────┐  │
-│  │ Chicken Salad     │  │
-│  └───────────────────┘  │
-│                         │
-│  Meal Type:             │
-│  ┌───────────────────┐  │
-│  │ Lunch         ▼   │  │
-│  └───────────────────┘  │
-│                         │
-│  Category:              │
-│  ┌─────┐ ┌─────┐ ┌───┐ │
-│  │🟢   │ │⚪   │ │🔴 │ │
-│  │Hlthy│ │Ntrl │ │Jnk│ │
-│  └─────┘ └─────┘ └───┘ │
-│                         │
-│     ┌─────────────┐     │
-│     │  Save Meal  │     │
-│     └─────────────┘     │
-│                         │
-│  Recent Meals:          │
-│  ┌───────────────────┐  │
-│  │🟢 Chicken Salad   │  │
-│  │   Lunch - 2:30 PM │  │
-│  ├───────────────────┤  │
-│  │🔴 Pizza           │  │
-│  │   Dinner - 8:00 PM│  │
-│  └───────────────────┘  │
-└─────────────────────────┘
-```
+![Main Screen](screenshots/Main-Screen.png)
 
-**What you learn:**
-- ✅ Text input (EditText)
-- ✅ Dropdowns (Spinner)
-- ✅ Multiple buttons with colors
-- ✅ Saving data (SharedPreferences)
-- ✅ Lists (RecyclerView)
-- ✅ Timestamps
+**The Daily Dashboard** - Your central hub for tracking meals
+- View today's meals at a glance
+- Navigate between days
+- Quick access to all meal slots (Breakfast, Lunch, Evening Snacks, Dinner)
+- See your streak progress
+- Access weekly/monthly summaries and goals
+
+**Key Features:**
+- ✅ Date navigation (previous/next day)
+- ✅ Visual meal slots with icons
+- ✅ Health category indicators
+- ✅ Streak tracking widget
+- ✅ Quick access buttons
 
 ---
 
-## 🟣 Stage 3: Full Meal Tracker
+## 📝 Meal Logger
 
-### Main Dashboard
-```
-┌─────────────────────────┐
-│   Meal Tracker          │
-├─────────────────────────┤
-│  📅 Today - Jan 11      │
-│                         │
-│  🌅 Breakfast           │
-│  ┌───────────────────┐  │
-│  │🟢 Oatmeal & Fruit │  │
-│  │   7:30 AM         │  │
-│  └───────────────────┘  │
-│                         │
-│  🌞 Lunch               │
-│  ┌───────────────────┐  │
-│  │🟢 Grilled Chicken │  │
-│  │   12:45 PM        │  │
-│  └───────────────────┘  │
-│                         │
-│  ☕ Evening Snack       │
-│  ┌───────────────────┐  │
-│  │🔴 Cookies         │  │
-│  │   4:15 PM         │  │
-│  └───────────────────┘  │
-│                         │
-│  🌙 Dinner              │
-│  ┌───────────────────┐  │
-│  │   Not logged yet  │  │
-│  │   + Add           │  │
-│  └───────────────────┘  │
-│                         │
-│  ┌─────────┐ ┌────────┐│
-│  │ Weekly  │ │Monthly ││
-│  │ Summary │ │Summary ││
-│  └─────────┘ └────────┘│
-└─────────────────────────┘
-```
+![Meal Logger](screenshots/Meal-Logger.png)
 
-### Weekly Summary
-```
-┌─────────────────────────┐
-│   Weekly Summary        │
-├─────────────────────────┤
-│  Jan 5 - Jan 11, 2026   │
-│                         │
-│  Total Meals: 28        │
-│                         │
-│  ┌───────────────────┐  │
-│  │ 🟢 Healthy:  60%  │  │
-│  │ ███████████░░░░░  │  │
-│  │                   │  │
-│  │ ⚪ Neutral:  25%  │  │
-│  │ █████░░░░░░░░░░░  │  │
-│  │                   │  │
-│  │ 🔴 Junk:     15%  │  │
-│  │ ███░░░░░░░░░░░░░  │  │
-│  └───────────────────┘  │
-│                         │
-│  Daily Breakdown:       │
-│  Mon: 🟢🟢🟢⚪          │
-│  Tue: 🟢🟢⚪🔴          │
-│  Wed: 🟢🟢🟢🟢          │
-│  Thu: 🟢⚪⚪🔴          │
-│  Fri: 🟢🟢🟢⚪          │
-│  Sat: 🟢🟢🔴🔴          │
-│  Sun: 🟢🟢🟢🟢          │
-│                         │
-│  🎯 Great job! 60%      │
-│     healthy meals!      │
-└─────────────────────────┘
-```
+**Add or Edit Meals** - Simple and intuitive meal entry
+- Enter meal name
+- Select meal type (Breakfast, Lunch, Evening Snacks, Dinner)
+- Categorize by health (Healthy 🟢, Neutral ⚪, Junk 🔴)
+- Edit existing meals
+- Pre-filled date and meal type when accessed from dashboard
 
-### Monthly Summary
-```
-┌─────────────────────────┐
-│   Monthly Summary       │
-├─────────────────────────┤
-│  January 2026           │
-│                         │
-│  Total Meals: 120       │
-│                         │
-│  📊 Category Breakdown  │
-│  ┌───────────────────┐  │
-│  │                   │  │
-│  │     🟢 55%        │  │
-│  │     ⚪ 30%        │  │
-│  │     🔴 15%        │  │
-│  │                   │  │
-│  │      ╱╲           │  │
-│  │     ╱  ╲          │  │
-│  │    ╱ 🟢 ╲         │  │
-│  │   ╱──────╲        │  │
-│  │  ╱   ⚪   ╲       │  │
-│  │ ╱─────🔴──╲      │  │
-│  └───────────────────┘  │
-│                         │
-│  📈 Trends:             │
-│  Week 1: 50% healthy    │
-│  Week 2: 55% healthy ↗  │
-│  Week 3: 58% healthy ↗  │
-│  Week 4: 60% healthy ↗  │
-│                         │
-│  🏆 You're improving!   │
-│     Keep it up!         │
-└─────────────────────────┘
-```
-
-**What you learn:**
-- ✅ Database (Room)
-- ✅ Multiple screens (Navigation)
-- ✅ Date handling
-- ✅ Data aggregation
-- ✅ Charts/visualizations
-- ✅ Edit/delete operations
-- ✅ Professional UI/UX
+**Key Features:**
+- ✅ Text input for meal names
+- ✅ Dropdown for meal types
+- ✅ Color-coded category buttons
+- ✅ Date pre-selection
+- ✅ Save/Cancel actions
 
 ---
 
-## 🎨 Color Scheme
+## 📊 Weekly Insights
 
-### Category Colors:
-- **🟢 Healthy:** `#4CAF50` (Green)
-- **⚪ Neutral:** `#9E9E9E` (Gray)
-- **🔴 Junk:** `#F44336` (Red)
+![Weekly Insights](screenshots/Weekly-Insights.png)
 
-### UI Colors:
-- **Primary:** `#6200EE` (Purple)
-- **Background:** `#FFFFFF` (White)
-- **Text:** `#000000` (Black)
-- **Accent:** `#03DAC5` (Teal)
+**Weekly Summary** - Track your weekly eating patterns
+- View meal statistics for the current week
+- See category breakdown (Healthy, Neutral, Junk percentages)
+- Daily meal counts
+- Visual charts and progress indicators
+- Motivational feedback
 
----
-
-## 📱 Features Summary
-
-### Stage 1 Features:
-- Simple button interaction
-- Text updates
-
-### Stage 2 Features:
-- ✅ Meal name input
-- ✅ Meal type selection (4 types)
-- ✅ Category buttons (3 colors)
-- ✅ Save to local storage
-- ✅ Display meal list
-- ✅ Timestamps
-
-### Stage 3 Features:
-- ✅ SQLite database
-- ✅ Daily meal structure
-- ✅ Weekly statistics
-- ✅ Monthly statistics
-- ✅ Edit meals
-- ✅ Delete meals
-- ✅ Visual charts
+**Key Features:**
+- ✅ Weekly meal totals
+- ✅ Category percentages
+- ✅ Daily breakdown visualization
+- ✅ Progress tracking
 - ✅ Trend analysis
-- ✅ Motivational messages
+
+---
+
+## 📈 Monthly Insights
+
+![Monthly Insights](screenshots/Monthly-Insights.png)
+
+**Monthly Summary** - Long-term eating habit analysis
+- Monthly meal statistics
+- Category distribution charts
+- Trend analysis over weeks
+- Progress tracking
+- Insights and recommendations
+
+**Key Features:**
+- ✅ Monthly totals
+- ✅ Visual charts and graphs
+- ✅ Week-over-week trends
+- ✅ Category breakdown
+- ✅ Achievement highlights
+
+---
+
+## 🎯 Goals and Achievements
+
+![Goals and Achievements](screenshots/Goals%20and%20Achievements.png)
+
+**Goals & Streaks** - Stay motivated with goals and achievements
+- Set custom goals (daily, weekly, monthly)
+- Track multiple streak types:
+  - Healthy Meals Streak
+  - All Meals Logged Streak
+  - No Junk Streak
+  - Perfect Day Streak
+- View achievements
+- Monitor progress toward goals
+
+**Key Features:**
+- ✅ Multiple goal types
+- ✅ Streak tracking
+- ✅ Achievement system
+- ✅ Progress visualization
+- ✅ Motivational feedback
+
+---
+
+## 🎨 Design Features
+
+**Material Design 3** - Modern, beautiful interface
+- Clean and intuitive design
+- Smooth animations
+- Consistent color scheme
+- Dark mode support
+- Responsive layout
+
+**Category Colors:**
+- 🟢 **Healthy:** Green (#4CAF50)
+- ⚪ **Neutral:** Gray (#9E9E9E)
+- 🔴 **Junk:** Red (#F44336)
+
+---
+
+## 📱 Complete Feature List
+
+### Core Features:
+- ✅ Daily meal tracking (4 meals/day)
+- ✅ Health categorization
+- ✅ Meal history with date navigation
+- ✅ Edit and delete meals
+- ✅ SQLite database (Room)
+
+### Statistics & Analytics:
+- ✅ Weekly summary with charts
+- ✅ Monthly insights with trends
+- ✅ Category breakdowns
+- ✅ Progress tracking
+- ✅ Visual data representations
+
+### Goals & Motivation:
+- ✅ Custom goal setting
+- ✅ Multiple streak types
+- ✅ Achievement system
+- ✅ Progress tracking
+- ✅ Motivational feedback
+
+### Additional Features:
+- ✅ Home screen widget (3 sizes)
+- ✅ Meal reminders (notifications)
+- ✅ Backup & restore (JSON export/import)
+- ✅ Dark mode support
+- ✅ Material Design 3 UI
 
 ---
 

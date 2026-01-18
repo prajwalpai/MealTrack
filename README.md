@@ -41,8 +41,8 @@ A beautiful, feature-rich Android app for tracking daily meals with health categ
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Android-App.git
-   cd Android-App
+   git clone https://github.com/yourusername/MealTrack.git
+   cd MealTrack
    ```
 
 2. **Open in Android Studio**
@@ -67,7 +67,24 @@ Build → Generate Signed Bundle / APK → APK → Next → Fill details → Fin
 
 ## 📱 Screenshots
 
-*Coming soon - Add screenshots of your app here*
+<div align="center">
+
+### Main Dashboard
+![Main Screen](Documentation/screenshots/Main-Screen.png)
+
+### Meal Logger
+![Meal Logger](Documentation/screenshots/Meal-Logger.png)
+
+### Weekly Insights
+![Weekly Insights](Documentation/screenshots/Weekly-Insights.png)
+
+### Monthly Insights
+![Monthly Insights](Documentation/screenshots/Monthly-Insights.png)
+
+### Goals and Achievements
+![Goals and Achievements](Documentation/screenshots/Goals%20and%20Achievements.png)
+
+</div>
 
 ## 🏗️ Architecture
 
@@ -83,7 +100,7 @@ Build → Generate Signed Bundle / APK → APK → Next → Fill details → Fin
 ### Project Structure
 ```
 app/src/main/
-├── java/com/example/mealtracker/
+├── java/com/prajwalpai/mealtracker/
 │   ├── data/              # Database, DAO, entities
 │   ├── backup/            # Backup/restore logic
 │   ├── notifications/     # Notification scheduling
